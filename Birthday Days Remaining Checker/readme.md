@@ -3,7 +3,6 @@
 ## The problem
 Calculate how many days are remaining for the next birthday.
 
-This code is submitted by Programmer Karim.
 
 ## Hints
 Let’s say, you want to display 5 random numbers. You can write the code like below:
